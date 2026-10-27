@@ -11,7 +11,7 @@
   "factKey": "用户.饮食偏好",
   "value": "海鲜、烤串",
   "kind": "semantic",
-  "scope": "private:1726733060",
+  "scope": "private:123456789",
   "status": "active",
   "confidence": 0.9,
   "importance": 0.84,
@@ -46,7 +46,7 @@
   "at": "2026-10-27T12:00:00+08:00",
   "user": "我好累",
   "assistant": "那就早点睡",
-  "scope": "private:1726733060",
+  "scope": "private:123456789",
   "salience": 0.67,
   "mood": 0.4,
   "consolidated": false
