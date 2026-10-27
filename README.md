@@ -3,6 +3,8 @@
 把「鱼的心情」和「鱼的记忆」合并成一个 DSH 插件，并针对 QQ 场景做了长期记忆、短期记忆、情绪、社交、自我叙事和元认知的整合。
 
 > 这是社区插件，不是 DeepSeek 官方项目。
+> 欢迎赞助
+tron：TUVYkVPjk4HNH1zo3wLwQvTiHU6rxCUjLq
 
 ## 功能概览
 
