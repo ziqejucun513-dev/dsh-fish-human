@@ -86,7 +86,7 @@ QQ 桥接的 `sessions.json` 用于识别哪些 session 属于 QQ。
   "factKey": "用户.饮食偏好",
   "value": "海鲜、烤串",
   "kind": "semantic",
-  "scope": "private:1726733060",
+  "scope": "private:123456789",
   "status": "active",
   "confidence": 0.9,
   "importance": 0.84,
@@ -132,7 +132,7 @@ QQ 桥接的 `sessions.json` 用于识别哪些 session 属于 QQ。
 
 ```json
 {
-  "group:778567138": {
+  "group:123456789": {
     "people": {
       "1726733060": {
         "name": "老大",
