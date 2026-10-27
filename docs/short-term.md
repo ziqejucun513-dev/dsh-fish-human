@@ -14,14 +14,14 @@
   "maxChars": 6000,
   "managedByBridge": true,
   "conversations": {
-    "private:1726733060": [
+    "private:123456789": [
       {
         "at": "2026-10-27T12:00:00+08:00",
         "user": "我好累",
         "assistant": "那就早点睡",
         "salience": 0.67,
         "mood": 0.4,
-        "scope": "private:1726733060",
+        "scope": "private:123456789",
         "consolidated": false
       }
     ]
