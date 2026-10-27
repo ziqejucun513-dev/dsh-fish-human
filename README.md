@@ -134,7 +134,7 @@ QQ 桥接的 `sessions.json` 用于识别哪些 session 属于 QQ。
 {
   "group:123456789": {
     "people": {
-      "1726733060": {
+      "123456789": {
         "name": "老大",
         "lastText": "……",
         "topics": ["海鲜", "吉他"],
