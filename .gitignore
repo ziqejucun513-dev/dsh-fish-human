@@ -1,0 +1,13 @@
+node_modules/
+state/
+profiles/
+sessions/
+fish-memory/
+feiyu-mood/
+workbuddy-vault/
+.credentials.yaml
+*.log
+*.bak
+*.journal
+*.tmp-*
+.DS_Store

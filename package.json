@@ -1,0 +1,32 @@
+{
+  "name": "dsh-fish-human",
+  "version": "0.2.0",
+  "description": "长期/短期记忆、心情、社交、自我叙事、说说记忆与元认知的 DSH 整合插件",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziqejucun513-dev/dsh-fish-human.git"
+  },
+  "type": "module",
+  "main": "./lib/index.js",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "memory",
+    "mood",
+    "qq"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-client-runtime",
+        "@deepseek-ai/dsh-client-ui-settings",
+        "@deepseek-ai/dsh-client-ui-settings-plugins"
+      ]
+    }
+  }
+}
