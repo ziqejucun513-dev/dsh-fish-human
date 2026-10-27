@@ -13,7 +13,7 @@
   "factKey": "用户.饮食偏好",
   "value": "海鲜、烤串",
   "kind": "semantic",
-  "scope": "private:1726733060",
+  "scope": "private:123456789",
   "status": "active",
   "confidence": 0.9,
   "importance": 0.84,
